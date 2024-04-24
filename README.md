@@ -14,6 +14,9 @@ Learn to Cloud is a GUIDE (not a book or course) that originated from [this twee
 ## How to get started?
 
 Our website is live [here](https://learntocloud.guide)
+
+
+
 ## Questions? Comments? Feedback?
 
 Please open an [Issue](https://github.com/learntocloud/learn-to-cloud/issues)
